@@ -1,0 +1,13 @@
+.nav-link{
+    color: white;
+}
+
+
+.navbar-nav .nav-link.active{
+    color: rgb(164, 164, 164);
+}
+
+
+.navbar-brand img{
+    width: 70px;
+}
